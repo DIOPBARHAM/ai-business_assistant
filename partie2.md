@@ -52,10 +52,6 @@ de la catégorie, sans phrase.
 [OUTPUT] Catégorie unique.
 ```
 
-**Réponse :**
-```
-négatif
-
 ## Comparaison
 
 | Technique | Résultat | Analyse |
